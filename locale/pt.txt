@@ -5,14 +5,13 @@
 ### URL
 LinkBehaviour_FF9C8354_81D2_579C_41B4_C8B157661153.source = https://api.whatsapp.com/send?phone=554833078404
 LinkBehaviour_E7CF806C_81CE_718C_41D5_68F40EBD3B61.source = https://api.whatsapp.com/send?phone=554833078404
-LinkBehaviour_DA1CAD05_C2C6_0F29_41E4_227A594986FE.source = https://g.page/r/CcI518ZXru3MEAg/review
 LinkBehaviour_FBF650B5_815E_329D_41CD_122CDB9D9960.source = https://g.page/r/CcI518ZXru3MEAg/review
+LinkBehaviour_DA1CAD05_C2C6_0F29_41E4_227A594986FE.source = https://g.page/r/CcI518ZXru3MEAg/review
 LinkBehaviour_BD852D64_8752_33B3_41BC_1A87F3B10D94.source = https://goedertgroup.com
-WebFrame_ACD2E6A7_A163_BD9D_41E4_4B2390809E36_mobile.url = https://goedertgroup.com
 LinkBehaviour_BC3B7321_8733_F7B5_41A4_7C956FFAC08C.source = https://goedertgroup.com
-LinkBehaviour_BA49A1A5_80F2_52BC_41D1_D6F6D4A40AD5.source = https://goedertgroup.com/
+WebFrame_ACD2E6A7_A163_BD9D_41E4_4B2390809E36_mobile.url = https://goedertgroup.com
 WebFrame_ACD2E6A7_A163_BD9D_41E4_4B2390809E36.url = https://goedertgroup.com/
-LinkBehaviour_B7C2DEC9_81D6_C7ED_41A1_4EA13E8819CF.source = https://goedertgroup.com/
+LinkBehaviour_BA49A1A5_80F2_52BC_41D1_D6F6D4A40AD5.source = https://goedertgroup.com/
 WebFrame_6EF9D945_597C_4093_41C4_38AB28685800_mobile.url = https://maps.google.com/maps?output=embed&center=-27.591567,-48.552477&z=15&q=Lugano+Florian%C3%B3polis+-+Cafeteria,+Presentes+e+Chocolates
 WebFrame_6EF9D945_597C_4093_41C4_38AB28685800.url = https://maps.google.com/maps?output=embed&center=-27.591567,-48.552477&z=15&q=Lugano+Florian%C3%B3polis+-+Cafeteria,+Presentes+e+Chocolates
 LinkBehaviour_FBAD745E_81CE_D18F_41E3_92700EE3277E.source = https://www.instagram.com/chocolatelugano.florianopolis/
@@ -247,8 +246,8 @@ Image_AE6BD556_BEF1_B2AF_41C3_591F77BB5E97_mobile.path = null
 Image_AE6BD556_BEF1_B2AF_41C3_591F77BB5E97.path = null
 Image_AF948EC9_B7CF_9BBB_41D0_B3F293795060.path = null
 Image_C4A8CFCA_D7A7_6625_41D9_1C4F4FF7BBAA.path = null
-Image_C9F34A45_D885_AF4F_41C1_92E1CF826AFF.path = null
 Image_C9F34A45_D885_AF4F_41C1_92E1CF826AFF_mobile.path = null
+Image_C9F34A45_D885_AF4F_41C1_92E1CF826AFF.path = null
 Image_547A8219_5924_40B3_41D2_39490E485F03_mobile.path = null
 Image_547A8219_5924_40B3_41D2_39490E485F03.path = null
 Image_547A8219_5924_40B3_41D2_39490E485F03_mobile.url = skin/Image_547A8219_5924_40B3_41D2_39490E485F03_mobile_pt.jpg
